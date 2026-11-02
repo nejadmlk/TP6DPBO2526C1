@@ -116,17 +116,11 @@ Sistem tersebut membuat permainan memiliki tingkat kesulitan yang terus meningka
 
 # Dokumentasi
 
-## Input
-<img src="Dokumentasi/add.gif" width="100%">
+## Tampilan Awal
+<img src="Dokumentasi/tampilan awal.gif" width="100%">
 
-## Update
-<img src="Dokumentasi/update.gif" width="100%">
+## Kalo Mati
+<img src="Dokumentasi/klo mati.gif" width="100%">
 
-## Delete
-<img src="Dokumentasi/delete.gif" width="100%">
-
-## Update klo ada yang kosong
-<img src="Dokumentasi/update-klo-ad-kosong.gif" width="100%">
-
-## Input klo ada yang sama
-<img src="Dokumentasi/add-klo-id-sama.gif" width="100%">
+## Tampilan Restart
+<img src="Dokumentasi/klo restart.gif" width="100%">
